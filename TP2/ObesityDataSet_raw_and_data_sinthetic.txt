@@ -1,0 +1,9 @@
+Obesidad
+
+La obesidad, que causa problemas físicos y mentales, es un problema de salud global con graves consecuencias. La prevalencia de la obesidad aumenta constantemente, por lo que se necesita nueva investigación que examine los factores que influyen en la obesidad y cómo predecir la aparición de la condición según estos factores.
+
+(Enlace al artículo original)
+
+Información del Conjunto de Datos
+
+Este conjunto de datos incluye información para la estimación de los niveles de obesidad en individuos de los países de México, Perú y Colombia, en función de sus hábitos alimenticios y condición física. Los datos contienen 17 atributos y 2111 registros, los registros están etiquetados con la variable de clase NObesidad (Nivel de Obesidad), que permite la clasificación de los datos utilizando los valores de Peso Insuficiente, Peso Normal, Sobrepeso Nivel I, Sobrepeso Nivel II, Obesidad Tipo I, Obesidad Tipo II y Obesidad Tipo III. El 77% de los datos se generó sintéticamente utilizando la herramienta Weka y el filtro SMOTE, el 23% de los datos se recolectaron directamente de los usuarios a través de una plataforma web.
